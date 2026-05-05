@@ -1,1 +1,1 @@
-if x == 5 then printf("HOLA");
+if x == 5 then printf("HOLA don PEPITO");
